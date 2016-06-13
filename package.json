@@ -1,0 +1,14 @@
+{
+  "name": "destiny-stats-viewer",
+  "version": "1.0.0",
+  "description": "Bungie Destiny Player Stats Viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
